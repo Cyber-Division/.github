@@ -1,5 +1,6 @@
-## Hi there 👋
+## CyberDivision
 
+We're still building what we'd be. For now, here's our [Discord Server](https://discord.gg/Qr3PsJfRF4)
 <!--
 
 **Here are some ideas to get you started:**
